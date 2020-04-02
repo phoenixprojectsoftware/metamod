@@ -100,6 +100,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "wizwars",            "mp.so",                    "hl.dll",                    "Wizard Wars (Legacy)"                             },
 	{ "wormshl",            "wormshl_i586.so",          "wormshl.dll",               "WormsHL (Legacy)"                                 },
 	{ "wormshl",            "wormshl_i686.so",          "wormshl.dll",               "WormsHL (Steam)"                                  },
+	{ "zamnhlmp",			"creative.so",				"creative.dll",				 "Shooter Tourneys"									},
 	{ "zp",                 "hl_i386.so",               "mp.dll",                    "Zombie Panic"                                     },
 
 
