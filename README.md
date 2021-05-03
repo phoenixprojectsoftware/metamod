@@ -7,6 +7,10 @@
 **Phoenix Metamod is incompatible with original `HLDS`. It's necessary to have installed [ReHLDS](https://github.com/dreamstalker/ReHLDS) (`API 3.1+`). There is no guarantee that the product will work in a different environment.**
 ## Game Support
 See `game_support.cpp` to see what games work with **Phoenix Metamod.**
+
+## Building
+To build **Phoenix Metamod,** you must use Visual Studio C++ 2015.
+
 # Submit Your Mod for Phoenix Metamod Support
 To do this, use the issues page. You must provide:
 - The name of your mod
