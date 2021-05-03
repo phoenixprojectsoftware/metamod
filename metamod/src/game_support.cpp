@@ -101,7 +101,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "wizwars",            "mp.so",                    "hl.dll",                    "Wizard Wars (Legacy)"                             },
 	{ "wormshl",            "wormshl_i586.so",          "wormshl.dll",               "WormsHL (Legacy)"                                 },
 	{ "wormshl",            "wormshl_i686.so",          "wormshl.dll",               "WormsHL (Steam)"                                  },
-	{ "zamnhlmp",			"creative.so",				"creative.dll",				 "Shooter Tourneys"									},
+	{ "zamnhlmp",			"aura.so",				"aura.dll",				 		 "Half-Life: ZAMN Multiplayer v.2.4"				}, // versions older than 2.4 will no longer work as they use the creaTive Deathmatch Player
 	{ "zp",                 "hl_i386.so",               "mp.dll",                    "Zombie Panic"                                     },
 
 
