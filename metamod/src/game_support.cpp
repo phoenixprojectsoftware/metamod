@@ -10,6 +10,7 @@ const game_modinfo_t g_known_games[] = {
 	// Previously enumerated in this sourcefile, the list is now kept in a
 	// separate file, generated based on game information stored in a
 	// convenient db.
+	// Alphabetised by game folder
 	{ "action",             "ahl_i386.so",              "ahl.dll",                   "Action Half-Life"                                 }, // + director's cut [2016], updated linux binary name
 	{ "ag",                 "ag_i386.so",               "ag.dll",                    "Adrenaline Gamer (Original)"                      }, // .so file by oririnal game
 	{ "ag",                 "ag.so",                    "ag.dll",                    "Adrenaline Gamer (OpenAG)"                        }, // .so file by OpenAG fork
