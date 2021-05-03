@@ -33,7 +33,7 @@ const game_modinfo_t g_known_games[] = {
 	{ "dmc",                "dmc.so",                   "dmc.dll",                   "Deathmatch Classic"                               }, // ok
 	{ "dod",                "dod.so",                   "dod.dll",                   "Day of Defeat"                                    }, // ok
 	{ "dpb",                "pb.i386.so",               "pb.dll",                    "Digital Paintball"                                }, // ok
-	{ "dpbredux",			"pb.so",					"mp.dll",					 "Digital Paintball Redux"							}
+	{ "dpbredux",			"pb.so",					"mp.dll",					 "Digital Paintball Redux"							},
 	{ "esf",                "hl_i386.so",               "hl.dll",                    "Earth's Special Forces"                           }, // full linux version
 	{ "esf",                "../linuxdll/hl_i386.so",   "hl.dll",                    "Earth's Special Forces (Legacy)"                  }, // workaround for basic-linux version
 	{ "existence",          nullptr,                    "existence.dll",             "Existence"                                        }, // have no linux binary found!
